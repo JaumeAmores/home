@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - cv.pdf
+
+website:
+  title: "Jaume Amores"
+  site-url: "https://Jaume-JCI.github.io/ds-blocks"
+  description: "Personal page"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@JaumeEire"
+  navbar:
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Papers"
+        url: "papers.pdf"
+  page-footer:
+    left: "© Copyright 2022 Jaume Amores."
+format:
+  html:
+    theme: [cosmo, _variables.scss]
+    css: styles.css
