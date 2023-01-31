@@ -8,7 +8,7 @@ about:
       url: "https://linkedin.com/in/jaume-amores-7b600849"
     - text: GitHub
       icon: github
-      url: "https://github.com/Jaume-JCI"
+      url: "https://github.com/JaumeAmores"
     - text: Email
       url: "mailto:jau.m@hotmail.com"
     - text: CV
@@ -28,10 +28,5 @@ Hello, and welcome to my home page! I work currently as a Principal Data Scienti
 - B.Sc. in Computer Science | Universitat de Valencia | 2000
 
 <p></p>
-
-## Open Source Projects
-
-- **[DS Blocks](https://jaume-jci.github.io/ds-blocks/)** | Write modular, compact, and decoupled data science pipelines. 
-- **[HP Search](https://github.com/Jaume-JCI/hpsearch)** | Flexible experiment tracking framework.
 
 :::
